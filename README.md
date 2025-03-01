@@ -31,8 +31,8 @@ A feature-rich Telegram bot for downloading videos and audio from YouTube with a
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/youtube-dl-bot.git
-cd youtube-dl-bot
+git clone git@github.com:Kavun-Sama/YT-DL-Bot.git
+cd YT-DL-Bot
 ```
 
 2. **Install dependencies**
