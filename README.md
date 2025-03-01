@@ -11,11 +11,11 @@ A feature-rich Telegram bot for downloading videos and audio from YouTube with a
 ## ✨ Features
 
 - 🌐 Multilingual interface (English/Russian)
-- 🎮 Interactive inline keyboard interface
+- ⌨ Interactive inline keyboard interface
 - 🎬 Video quality selection (from 144p to 4K)
 - 🔊 Audio extraction with various quality options
 - 📁 Upload files up to 2GB via local Telegram API server
-- 👥 Works in groups and channels
+- 👥 Works in groups
 - 📱 Supports YouTube Shorts
 - ⚡ Optimized for high user load
 
