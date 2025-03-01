@@ -1,0 +1,4 @@
+aiogram==3.15.0
+python-dotenv==1.0.1
+yt-dlp==2025.2.19
+pydantic==2.9.2
