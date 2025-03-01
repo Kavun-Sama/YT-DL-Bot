@@ -68,7 +68,7 @@ python bot.py
 
 - `/start` - Start the bot
 - `/help` - Show help information
-- `/settings` - Change language and other preferences
+- `/language` - Change language
 
 
 ## 🔧 Advanced Configuration
