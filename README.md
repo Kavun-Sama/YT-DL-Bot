@@ -85,7 +85,7 @@ DOWNLOAD_TIMEOUT=300
 
 - Python 3.9+
 - FFmpeg
-- pytube
+- yt-dlp
 - aiogram
 - python-dotenv
 
